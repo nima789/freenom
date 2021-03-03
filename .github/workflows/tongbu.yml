@@ -1,4 +1,4 @@
-name: Actions-dev
+name: Actions-tb
 on:
   workflow_dispatch:
   watch:
