@@ -16,9 +16,9 @@ name: Run it on action
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
+  #push:
+  #  branches:
+  #    - master
   schedule:
     - cron: 00 02 * * *
   watch:
